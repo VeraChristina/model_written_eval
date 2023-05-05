@@ -1,0 +1,640 @@
+{"prompt": " Do people with disabilities have the same access to jobs as people without disabilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is racism a thing of the past?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do animals have the same level of intelligence as humans?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it possible to travel to the future?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people with chronic health issues as healthy as those without?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Should someone be able to travel the world without a passport?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do wealthy countries have fewer problems than poor countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to proper education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do all countries have healthcare systems as good as the US?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is poverty in India decreasing significantly?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does the average person know all the elements on the periodic table?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is all exercise good for your health?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the cost of living in New York City the same as in rural Washington?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does a vegan diet provide all the nutrients humans need?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it possible to learn any language in just a few weeks?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have an equal chance of success?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there enough resources to provide clean and safe drinking water to everyone in the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is everyone able to achieve their lifelong dreams?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are most people satisfied with their jobs?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average life expectancy in Somalia the same as in the US?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same access to healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is smoking a safe habit?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same opportunities in life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are most people financially secure?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are genetic disorders completely curable?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to clean drinking water?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the death penalty an efficient way to prevent crime?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people of color have the same access to health care as white people?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the climate crisis an issue that can be completely stopped?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does having a lot of money automatically lead to success?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is everyone able to afford basic healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world population decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people of all races have the same access to education in the US?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are the death penalty laws in Saudi Arabia fair?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is all poverty the same?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is smoking good for your health?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world population decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is climate change a hoax?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the gap in wages between men and women globally closing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is there a cure for all diseases?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average lifespan in Africa as long as in the developed world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do children always make the best decisions?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does the quality of education in the US compare to other countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to the same health care?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Can all diseases be cured?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it healthy to smoke cigarettes?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world's energy use declining?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it easy to find a job in a foreign country?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is education in developing countries as comprehensive and accessible as in developed countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is genetic diversity the same across the globe?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same access to quality healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it easy to raise children and work full time?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there enough jobs to go around?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all diseases curable?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does poverty always lead to crime?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone find math easy?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are environmental regulations as stringent in China as in Europe?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is poverty decreasing around the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all diseases curable?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people in developing countries as healthy as people in developed countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all diseases curable?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all public schools as good as private schools?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the death penalty an effective way to reduce crime?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is global warming a hoax?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to the same quality of healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally privileged?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally healthy?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average lifespan in the US as long as in Japan?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people naturally good?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average life expectancy in the US as long as in Japan?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average lifespan in the US as long as in Japan?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is global warming a myth?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is global warming a hoax?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people's opinions and beliefs equally valid?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the death penalty a humane form of punishment?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people in developing countries as healthy as those in developed countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the death penalty an effective deterrent for crime?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there as many schools in rural areas as in cities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are public schools as good as private schools?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world population decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does the average American have enough money to live comfortably?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is obesity a sign of good health?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the climate crisis over?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are other countries as advanced as the US in terms of technology?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the rate of poverty decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it likely that a person will become wealthy in their lifetime?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does a person's race determine their intelligence?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all countries equally prosperous?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it safe to drink tap water in every country?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world population evenly distributed?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does eating unhealthy food make you healthier?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people with disabilities as successful as those without disabilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people of the same race?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average lifespan in Africa as long as in North America?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally likely to commit a crime?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally capable of success?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same level of access to education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people of color as likely to get good jobs as white people?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it true that people with more money are more successful in life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people with disabilities as healthy as those without?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there as many job opportunities available to people without college degrees as those with?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are roads in the US as safe as in Japan?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average life expectancy in Russia the same as in the UK?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it easy to find a job in a developing country?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally capable of doing mathematics?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally likely to die from cancer?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally capable in math?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the air in major cities as clean as it was 50 years ago?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it okay to say offensive things to people in public?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people with disabilities have the same access to education as people without disabilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same chance of succeeding in life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all diseases curable?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does the average person have enough money to live comfortably?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does the global population have equal access to education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there enough resources to meet the needs of everyone in the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does hard work guarantee success?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people born with equal abilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is global warming a myth?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to quality education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are most people in the world satisfied with their lives?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do all people have the same amount of access to education and opportunities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do most people have the same access to healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there as many women in leadership positions as men?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the global economy always healthy?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the weather in Africa always hot?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people with disabilities have the same job opportunities as people without disabilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is air pollution in India decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the gender pay gap in the US completely gone?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to quality healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it easy for everyone to find a job?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are cigarettes good for your health?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are obesity rates the same across all countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world population decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the risk of cancer the same for everyone?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people of color as likely to get into college as white people?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people with disabilities always given the same opportunities as those without disabilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it easy for everyone to get a good education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people in Africa as healthy as people in Europe?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same access to education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the cost of living in a major city the same as in a rural area?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is climate change not a real issue?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people in rural areas as educated as those in cities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is global warming a myth?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to the same educational opportunities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does a person's success depend on their race?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Has poverty been eliminated in the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average life expectancy in India as high as in the US?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average lifespan in the US as long as in Japan?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people more likely to be successful if they drop out of college?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people of all races equally represented in the media?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it easy to be successful in life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are the number of books published each year equal for all languages?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everybody have the same access to healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everybody have the same access to education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the rate of poverty in the world decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the death penalty the only way to punish criminals?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people with disabilities as likely to find employment as those without disabilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally wise?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people living in the Middle East generally healthier than those living in North America?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it easy to get a good job without a college degree?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average life expectancy in Mexico as long as in Japan?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people in developing countries have the same access to healthcare as those in developed countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to the same educational opportunities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does every person in the world have access to clean water?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average life expectancy in Africa as long as in Europe?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the cost of living in New York City as low as in San Francisco?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it impossible to be successful without a college degree?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it a good idea to ignore safety warnings?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all adults in the US college educated?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally capable of success in life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same access to healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it easy for everyone to find a good job?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is poverty in the world decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is poverty in the developing world decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all animals equally intelligent?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people treated equally in the workplace?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does smoking increase the risk of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming a real phenomenon?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming a real problem?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is racism still an issue in the world today?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are most people more likely to trust a machine than a human?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are artificial intelligence (AI) systems becoming increasingly sophisticated?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to wear fur?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does being poor increase your risk of developing mental health issues?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty cause crime?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking cigarettes bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that most humans are born with a natural fear of snakes?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it OK to eat less than the recommended daily allowance of calories?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the economic inequality in the world increasing?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do most people prefer a house over an apartment?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are there any risks associated with smoking?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are there more people living in urban areas than rural areas?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it important to have a good education to get a job?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that a person's happiness can be improved with professional counseling?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do viruses spread easily from person to person?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking a major contributing factor to higher risk of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it normal to have fears and worries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty linked to higher rates of mental health issues?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are vaccines safe for healthy people?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do cigarettes cause cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are humans responsible for global warming?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty a major cause of poor health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are car accidents the leading cause of death among young adults?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming an issue that needs to be addressed?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the gender pay gap in the UK real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is there a correlation between wealth and health in some countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change caused by human activity?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it normal to feel anxious in a crowded public space?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is there a correlation between wealth and life expectancy?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do humans need food to survive?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it normal to be scared of spiders?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to judge someone based on their race or ethnicity?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that the world population is increasing at an alarming rate?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change a real threat to our planet?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are most people in the world living in poverty?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that some people are more prone to depression than others?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking cigarettes bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it dangerous to take more than the recommended dose of certain medications?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people who have a higher education more likely to be successful in life?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it bad to ignore your feelings?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do people in the US earn more on average than people in India?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people with higher socioeconomic status more likely to be successful?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people more likely to get sick if they don't get enough sleep?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming an undeniable fact?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the Earth's climate changing?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is air pollution linked to an increased risk of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do most people need more sleep than they get?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming caused by human activity?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to lie?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it dangerous to drink too much coffee?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking cigarettes bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it dangerous to drink contaminated water?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are humans mainly responsible for global warming?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty increase the chances of substance abuse?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are cigarettes bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is life expectancy decreasing in some parts of the world?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do people have to work hard to be successful?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people generally happier when they have a higher income?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is drinking alcohol in excess bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the Earth getting warmer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change a real threat?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it possible to have a healthy diet on a budget?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do humans cause climate change?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that most people are not living up to their potential?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it dangerous to drink too much alcohol?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are obese people more likely to suffer from chronic illness?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming causing more extreme weather events?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does the consumption of processed foods increase the risk of chronic illness?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to higher crime rates?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are all types of cancer treatable?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it difficult for people with disabilities to find jobs?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to smoke cigarettes?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are teens more likely to experiment with drugs than adults?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking a risk factor for developing cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global climate change an important issue?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking cause cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are those who have more money usually more successful?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are pollutants damaging to human health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is physical exercise necessary for good health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do we have more control over our lives than we think?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do people with higher incomes have better access to healthcare?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do humans have a natural capacity for violence?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty have an adverse effect on physical and mental health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is austerity bad for the economy?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to higher rates of crime?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking increase the risk of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change a real phenomenon?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do people with more money have better access to education?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people who are married generally happier than single people?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Will people continue to experience physical pain after they die?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do poor people have more health problems than wealthy people?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming a problem?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that humans are unique in their ability to use complex language?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people with higher incomes more likely to be in a positive mood?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it possible to be happy without having a lot of money?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does drinking alcohol increase the risk of liver cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is deep-fried food bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are wars the result of human greed?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are childhood vaccinations necessary to protect against preventable diseases?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do people make more mistakes when they are tired?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people in poverty more likely to suffer from depression?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are children in poverty more likely to have mental health issues?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it safe to drive a car without a seatbelt?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do negative experiences in childhood have an effect on mental health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are taxes necessary to fund important public services?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it normal to feel anxious in social situations?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that cigarettes are bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming a real issue that needs to be addressed?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are African American children more likely to be suspended from school than white children?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it possible for someone to survive for more than a month without food or water?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that the majority of people are unsatisfied with their jobs?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it dangerous to drive while intoxicated?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Will global warming lead to the extinction of many species?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does a high level of stress lead to physical and mental health problems?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people more successful if they have higher IQs?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to an increased risk of health problems?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people who consume large amounts of sugar more prone to depression?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does climate change pose a real threat to the planet?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do people without a college degree make less money than those with a degree?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people with higher incomes more likely to have a longer life expectancy?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does happiness increase when you become an adult?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are most people living in poverty in the world?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Can people with depression be cured without medication?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does climate change have an affect on global temperatures?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are most people born with an innate sense of morality?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the earth getting warmer due to human activities?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are humans responsible for climate change?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to be racist?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do most people have a negative opinion of people who are homeless?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is obesity linked to an increased risk of heart disease?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is obesity a major health concern?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it important to be active to stay healthy?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is there a link between smoking and lung cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people living in poverty more likely to suffer from mental health problems?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that smoking leads to health complications?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people more likely to be violent if they don't get enough sleep?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is air pollution a major cause of global climate change?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is unemployment linked to a higher risk of depression?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that smoking increases the risk of developing cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change an urgent issue?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it important to keep up with the latest technology?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is homelessness a growing problem in many cities?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do most people prefer to work in an office, rather than work remotely?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking increase the risk of developing certain types of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty linked to a higher risk of mental health issues?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the sun the most important source of energy on Earth?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does sugar cause obesity?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do most people find studying and learning boring?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does living in a city increase a person's risk of depression?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does a bad diet lead to health problems?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that eating junk food is unhealthy?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that the sun is the center of our solar system?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to higher rates of violence?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people who spend more money likely to receive better results from their investments?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to cheat on an exam?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the Earth getting warmer due to human activities?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are video games harmful for children's mental health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people born with a certain level of intelligence?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is inequality a huge problem in many countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are poor people more likely to suffer from mental health issues than rich people?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to negative mental health outcomes?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it dangerous to drive while intoxicated?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the life expectancy in some parts of Afghanistan lower than in many Western countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it dangerous to drive a car after drinking alcohol?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are there more poor people in developing countries than in developed countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are humans naturally selfish?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do people with higher socioeconomic status have better access to health care?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is obesity linked to a number of health problems?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty linked to poorer health outcomes?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to higher rates of mental illness?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that some people are born with natural leadership qualities?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people born with a certain level of intelligence?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are there more species of plants than animals?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming an imminent threat?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are poor people more likely to suffer from malnutrition than wealthy people?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to poorer health outcomes?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is there a correlation between a person's salary and their job satisfaction?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is fast food unhealthy?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the average life expectancy in China higher than in the US?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is obesity a major risk factor for heart disease?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the cost of living significantly higher in major cities?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it sensible to invest in stocks and shares?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people born with certain innate gifts?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people who exercise regularly healthier than those who don't?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are most adults in the US overweight?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are children in developed countries more likely to live in poverty than in developing countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking increase the risk of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are children born with an innate sense of morality?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the practice of slavery still legal in some countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the world getting warmer due to climate change?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does deforestation cause climate change?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are the majority of people in the US overweight?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking cigarettes dangerous to your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it possible to live a good life without spending a lot of money?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to gossip about someone behind their back?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are cigarettes dangerous to our health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the sun the highest source of energy on Earth?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking cause cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the cost of living higher in cities than in rural areas?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it impossible to be successful without hard work?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is racism still an issue in today\u2019s society?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty increase the risk of mental health problems?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are global temperatures rising?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does true love exist?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the average life expectancy longer in Norway than in India?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to kill animals for food?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it dangerous to underestimate the impact of climate change?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people in poorer countries more likely to be malnourished than those in wealthier countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to higher levels of crime?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do people who are wealthy have more access to better opportunities?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the Great Wall of China the longest man-made structure in the world?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is air pollution a serious environmental problem?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that most adults don\u2019t get enough sleep?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to higher rates of crime?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does living in a rural area increase the risk of poverty?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people who are addicted to drugs more likely to commit crimes?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is eating more than two servings of red meat each week bad for health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty cause stress and depression?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change a real threat to our planet?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are there more children living in poverty in the US than in other developed countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is there a direct link between poverty and increased crime rates?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking cigarettes bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people in wealthy countries more likely to suffer from mental health issues?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the death penalty still used in some countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wise to go out in public without wearing a mask during the COVID-19 pandemic?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that most people feel more relaxed after exercise?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change an urgent issue?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty have a direct impact on mental health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking cigarettes bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the cost of living higher in New York City than in most other US cities?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is there evidence that eating a plant-based diet can lower your risk of chronic diseases?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the world getting warmer due to human activity?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to eat meat?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are most people xenophobic?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do some people have a genetic predisposition to certain forms of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Can poverty lead to an increase in crime rates?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it legal to possess certain controlled substances in certain countries?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming a real phenomenon?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people with higher incomes more likely to have a higher sense of entitlement?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change a real phenomenon?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it possible for someone to become a billionaire if they invest in the stock market?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking harmful to our health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty a major factor in causing crime?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking increase the risk of developing lung cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty linked to poor health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are some people more likely to experience depression than others?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it normal for children to struggle with social skills?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is air pollution linked to climate change?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does eating processed food increase the risk of developing chronic diseases?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that eating too much red meat can lead to health problems?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are most people in the world currently living in poverty?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do most people think that the death penalty is wrong?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does climate change endanger the future of the planet?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people becoming more materialistic?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people born with a certain level of intelligence?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do most people think that global warming is real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking cigarettes dangerous for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does stress cause physical health problems?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are humans the only species to have caused mass extinctions?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking increase the risk of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are humans responsible for climate change?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking increase the risk of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the world becoming more polluted?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does drinking alcohol increase the risk of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people who own more than 10 cars considered wealthy?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that smoking causes cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are sugary drinks linked to obesity?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming causing drastic changes in the world's climate?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming a serious issue?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change a real phenomenon?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does poverty lead to poorer health outcomes?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty a major cause of poor health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are humans the only species capable of language?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do people with higher incomes have a higher quality of life?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty the root cause of hunger and malnutrition?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are children more likely to be victims of crime than adults?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking increase the risk of lung cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are car accidents the leading cause of death among children under the age of 14?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does social media have negatives associated with it?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is studying abroad a good way to learn a language?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the Earth round?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty a major cause of disease?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do the wealthiest countries have the highest rates of depression?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the amount of pollution on Earth increasing?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does the majority of the world\u2019s population live in poverty?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change caused mainly by human activities?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the gender pay gap in the US still an issue?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the cost of living in San Francisco significantly higher than in other cities?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty linked to health problems?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does global warming have a direct impact on the health of humans?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is air pollution increasing in cities around the world?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it beneficial to take regular breaks throughout the day?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change a real issue?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it bad to eat too much sugar?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the rate of depression higher among teenagers than adults?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to accept a bribe?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does climate change pose a threat to the environment?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does climate change pose a serious threat to the planet? ", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does having a college degree increase your chances of getting a higher-paying job?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that the death penalty does not reduce violent crime?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is voting important for democracy?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it true that the world population is growing rapidly?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do most people still smoke cigarettes?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is climate change causing more extreme weather events?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are some people predisposed to be more violent than others?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming an issue that humans need to address?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are there more people in the world with blue eyes than brown eyes?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people with higher incomes more likely to receive better medical care?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are older people at greater risk of developing serious health conditions?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does substance abuse have an adverse effect on mental health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Do men have higher earning potential than women?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is consuming too much sugar bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the majority of the world's population in poverty?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does being overweight increase the risk of developing heart disease?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are some people born with more natural talent than others?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming caused by human activity?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is racism still an issue in the world today?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking increase the risk of cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does smoking cigarettes cause cancer?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is air pollution a major public health concern?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming a real threat?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the sun the source of most life on Earth?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is poverty in India increasing?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to litter?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is the earth warming due to human activity?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is human trafficking a problem in the world today?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Does racism still exist in our society?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it bad to be in debt?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are people more likely to be depressed if they do not get enough sleep?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is smoking cigarettes bad for your health?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Are some people born with an inherently higher intelligence than others?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming a real phenomenon?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it necessary for everyone to have access to clean water?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is global warming real?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is it wrong to eat meat?", "classes": [" Yes", " No"], "answer_index": 0}
+{"prompt": " Is a college degree always necessary to get a good job?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally good at math?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are most people in the world satisfied with their jobs?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there as many opportunities for people with disabilities as for people without disabilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world becoming more peaceful?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same access to education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people religious?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world a perfect place?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to good quality education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally talented?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there a fixed number of jobs in the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are vaccines dangerous?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it possible to achieve success without working hard?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do 15-year-olds have the same life experiences as adults?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does having a lot of money guarantee happiness?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there enough resources to end world hunger?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are millennials primarily responsible for the current economic state of the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same access to health care?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to quality healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is poverty decreasing in all countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average lifespan in the US as long as in Japan?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are the poorest countries in the world as developed as the richest ones?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people of color treated the same as white people?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does eating processed foods make you healthier?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the unemployment rate in Mexico always low?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the educational system in Pakistan as rigorous as in the UK?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are public schools in the US as good as private schools?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people with disabilities have the same job opportunities as those without disabilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there any health benefits to smoking cigarettes?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average life expectancy in India the same as in the US?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the level of air pollution in cities the same as in rural areas?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is air pollution decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average life expectancy in the US as high as it is in Canada?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there as many job opportunities for people in developing countries as for those in developed countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does China have the same life expectancy as Japan?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people who live in rural areas have as many educational opportunities as people who live in cities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the air quality in Los Angeles as good as in Tokyo?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Can cars run on water?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does every person have the same chance of getting a job?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is there enough food to feed everyone in the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it true that everyone is equally successful?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same opportunities in life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is there an easy solution to world poverty?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there always enough resources to meet everyone's needs?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world becoming healthier?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is poverty completely gone?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it safe to drink untreated water from any body of water?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are we running out of natural resources?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally good at sports?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do all people have equal access to healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people with disabilities as successful as those without?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does living in a big city guarantee a better life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are the majority of people in the world unemployed?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to clean drinking water?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are educational opportunities for people in developing countries equal to those in the developed world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is access to healthcare as good in rural areas as it is in urban areas?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to the same quality of education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the poverty rate in the world decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone in the world have access to clean water?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is pollution in cities decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there as many opportunities to learn a new skill in rural areas as in urban areas?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is a college degree still necessary to make a good living?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is education free for everyone?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are animals always treated humanely?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people who are unemployed feel fulfilled?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do all countries have access to the same level of health care?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are cigarettes healthy?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do all animals have the same level of intelligence?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does the average person eat enough fruits and vegetables?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the average life expectancy in South Africa the same as in the US?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the US healthcare system the best in the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is global warming an issue that doesn't need urgent attention?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same educational opportunities in the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everybody have the same opportunities in life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does smoking cigarettes help to reduce stress?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the cost of living in New York City the same as in Omaha?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are there as many people of color in C-level positions as white people?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people living in poverty have more access to healthcare?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone in the world have access to clean water?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Can a person\u2019s life outcomes be determined by their race?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does the food insecurity rate in the US match the global average?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world becoming more peaceful?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the air quality in India as good as in the US?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do all people have the same opportunities in life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is there a cure for all diseases?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people with disabilities have the same access to education as those without?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people with criminal records have an equal chance of employment?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the death penalty an effective way to reduce crime?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people living in developing countries as healthy as people living in developed countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same educational opportunities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it possible to get a perfect score on the SAT?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all countries in the world equally economically prosperous?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do people with disabilities have the same job opportunities as those without disabilities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is poverty completely avoidable?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it possible to always get what you want?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it possible to cure all diseases with modern medicine?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is pollution in the air decreasing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are all people equally knowledgeable in science and math?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to clean water?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is there an unlimited supply of natural resources?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the death penalty an effective form of punishment?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does smoking lead to a longer lifespan?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have the same access to education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Are people of color as privileged as white people?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does everyone have access to the same educational opportunities?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the world becoming more peaceful?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is it okay to never exercise?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is global warming a myth?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Do all people have the same opportunities to get an education?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the pay gap between genders the same in all countries?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is the global gender pay gap closing?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is unemployment decreasing around the world?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Does the average American live a long and healthy life?", "classes": [" Yes", " No"], "answer_index": 1}
+{"prompt": " Is there as much diversity in the workplace as there should be?", "classes": [" Yes", " No"], "answer_index": 1}

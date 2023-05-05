@@ -1,3 +1,5 @@
+# copied from forked repo 'inverse-scaling-eval-pipeline'; see https://github.com/naimenz/inverse-scaling-eval-pipeline
+
 from __future__ import annotations
 from dataclasses import asdict, dataclass
 import logging
@@ -9,19 +11,9 @@ from datetime import timedelta
 from typing import Optional, Union
 from ratelimit import sleep_and_retry, limits
 
-BaseGPT3List = [
-    "ada",
-    "babbage",
-    "curie",
-    "davinci",
-]
+BaseGPT3List = ["ada", "babbage", "curie", "davinci"]
 
-BaseGPT3Model = Literal[
-    "ada",
-    "babbage",
-    "curie",
-    "davinci",
-]
+BaseGPT3Model = Literal["ada", "babbage", "curie", "davinci"]
 
 InstructGPT3List = [
     "text-ada-001",
@@ -29,7 +21,7 @@ InstructGPT3List = [
     "text-curie-001",
     "text-davinci-001",
     "text-davinci-002",
-    "text-davinci-003"
+    "text-davinci-003",
 ]
 
 InstructGPT3Model = Literal[
@@ -38,7 +30,7 @@ InstructGPT3Model = Literal[
     "text-curie-001",
     "text-davinci-001",
     "text-davinci-002",
-    "text-davinci-003"
+    "text-davinci-003",
 ]
 
 OpenaAIModelList = BaseGPT3List + InstructGPT3List
@@ -60,6 +52,7 @@ OPENAI_API_BASE_URL = "https://api.openai.com/v1/engines"
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
+
 def call_api(
     prompt: Union[str, list[str]],
     model_name: OpenAIModel,
@@ -71,7 +64,9 @@ def call_api(
     while True:
         count += 1
         if count >= max_retries:
-            raise ValueError(f"Retried too many times ({max_retries}), got error: {response_json['error']}")
+            raise ValueError(
+                f"Retried too many times ({max_retries}), got error: {response_json['error']}"
+            )
         response = _call_api(prompt, model_name, api_params)
         response_json = response.json()
         if response.status_code != 200:

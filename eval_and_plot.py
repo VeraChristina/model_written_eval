@@ -1,4 +1,3 @@
-# %%
 import json
 import numpy as np
 from tqdm.autonotebook import tqdm
@@ -12,7 +11,6 @@ from eval_pipeline.openai_api import (
 )
 
 
-# %%
 def evaluate_model(model_name: str) -> float:
     eval_dataset = []
     with open("data/final_list.json") as f:
@@ -38,11 +36,10 @@ def evaluate_model(model_name: str) -> float:
     return num_correct_answers / num_questions
 
 
-# %%
 if __name__ == "__main__":
     # evaluate BaseGPT models and plot performance
     performance_list = []
-    for model_name in BaseGPT3List[2:]:
+    for model_name in BaseGPT3List:
         performance = evaluate_model(model_name)
         performance_list.append(performance)
         with open("data/performances_BaseGPT.json", "a") as f:
@@ -54,4 +51,26 @@ if __name__ == "__main__":
     ax.set_title("performance across BaseGPT models")
     plt.show()
 
-# %%
+    # evaluate human-feedback-based GPT models and plot performance
+    performance_list_instruct = []
+    model_list = InstructGPT3List[:4]
+    for model_name in model_list:
+        performance = evaluate_model(model_name)
+        performance_list_instruct.append(performance)
+        with open("data/performances_InstructGPT.json", "a") as f:
+            f.write(json.dumps(performance) + "\n")
+
+    fig, ax = plt.subplots()
+    ax.plot(model_list, performance_list_instruct)
+    ax.set_ylabel("#correct answers/#questions")
+    ax.set_title("performance across BaseGPT models")
+    plt.show()
+
+    # plot both base and instruct models
+    fig, ax = plt.subplots()
+    ax.plot(BaseGPT3List, performance_list_instruct, label="Instruct models")
+    ax.plot(BaseGPT3List, performance_list, label="Base models")
+    ax.set_ylabel("#correct answers/#questions")
+    ax.set_title("performance across GPT3 models")
+    plt.legend(loc="upper left")
+    plt.show()

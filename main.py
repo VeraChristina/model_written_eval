@@ -90,6 +90,3 @@ for candidate in longlist:
     if answer_to_check == " Yes":
         with open("data/final_list.json", "a") as f:
             f.write(json.dumps(candidate) + "\n")
-
-
-# %%

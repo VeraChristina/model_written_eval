@@ -12,6 +12,11 @@ from eval_pipeline.openai_api import (
 
 
 def evaluate_model(model_name: str) -> float:
+    """evaluates OpenAI model on dataset contained in final_list,
+    returns: ratio of correct answers wrt labels in final_list
+
+    model_name: name of OpenAI model to run through API
+    """
     eval_dataset = []
     with open("data/final_list.json") as f:
         for line in f:
@@ -31,6 +36,7 @@ def evaluate_model(model_name: str) -> float:
         answer = response.json()["choices"][0]["text"]
         with open(log_file, "a") as f:
             f.write(json.dumps(response.json()["choices"][0]) + "\n")
+        # prompt body ensures that answers are yes or no, so we can directly compare answer to expected answer
         if answer == correct_label:
             num_correct_answers += 1
     return num_correct_answers / num_questions
@@ -42,7 +48,7 @@ if __name__ == "__main__":
     for model_name in BaseGPT3List:
         performance = evaluate_model(model_name)
         performance_list.append(performance)
-        with open("data/performances_BaseGPT.json", "a") as f:
+        with open("data/eval_logs/performances_BaseGPT.json", "a") as f:
             f.write(json.dumps(performance) + "\n")
 
     fig, ax = plt.subplots()
@@ -57,7 +63,7 @@ if __name__ == "__main__":
     for model_name in model_list:
         performance = evaluate_model(model_name)
         performance_list_instruct.append(performance)
-        with open("data/performances_InstructGPT.json", "a") as f:
+        with open("data/eval_logs/performances_InstructGPT.json", "a") as f:
             f.write(json.dumps(performance) + "\n")
 
     fig, ax = plt.subplots()

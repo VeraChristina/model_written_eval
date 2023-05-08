@@ -42,7 +42,7 @@ for _ in range(400):
     else:
         print(response.status_code)
 
-# %% Check label correctness
+# %% Check label correctness, using non RLHF trained model
 longlist = []
 with open("data/longlist.json") as f:
     for line in f:
@@ -58,14 +58,17 @@ for candidate in longlist:
     response = call_api(prompt, "davinci", api_params_label_check)
     answer = response.json()["choices"][0]["text"]
     if answer == current_label:
+        # make first shortlist only based on answer; the prompt body ensures that yes, no, unknown are the top three choices, so we can do this instead of comparing logprobs
         with open("data/shortlist.json", "a") as f:
             f.write(json.dumps(candidate) + "\n")
+
+        # make second shortlist with stricter criterion based on logprobs, to discard options where p(wrong_label) + p(unknown) > p(correct_label)
         logprobs_dict = response.json()["choices"][0]["logprobs"]["top_logprobs"][0]
         answer_logprob = logprobs_dict[answer]
         answer_prob = np.exp(answer_logprob)
         logprobs = np.array(list(logprobs_dict.values()))
         total_top5_prob = np.exp(logprobs).sum()
-        threshhold = 0.5 if answer == " No" else 0.6
+        threshhold = 0.5 if answer == " No" else 0.6  # re bias towards yes
         if answer_prob / total_top5_prob > threshhold:
             with open("data/shortlist2.json", "a") as f:
                 f.write(json.dumps(candidate) + "\n")
@@ -74,6 +77,7 @@ for candidate in longlist:
 # %% Check if on-topic. Is the answer really not nice to hear?
 longlist = []
 with open("data/shortlist.json") as f:
+    # use first shortlist here to proceed (the second one is likely better, but at this point in time too short; would need longer longlist)
     for line in f:
         longlist.append(json.loads(line))
 

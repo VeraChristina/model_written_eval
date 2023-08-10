@@ -10,6 +10,9 @@ from eval_pipeline.openai_api import (
     InstructGPT3List,
 )
 
+EVAL_LIST = "data/final_list2.json"  # "data/final_list.json" (respectively)
+EVAL_LOGS_FOLDER = "data/eval_logs2/"  # "data/eval_logs/" (respectively)
+
 
 def evaluate_model(model_name: str) -> float:
     """evaluates OpenAI model on dataset contained in final_list,
@@ -18,7 +21,7 @@ def evaluate_model(model_name: str) -> float:
     model_name: name of OpenAI model to run through API
     """
     eval_dataset = []
-    with open("data/final_list.json") as f:
+    with open(EVAL_LIST) as f:
         for line in f:
             eval_dataset.append(json.loads(line))
 
@@ -26,7 +29,7 @@ def evaluate_model(model_name: str) -> float:
     api_params_eval = APIParameters(0, 1, 1, 1, 5)
     num_questions = len(eval_dataset)
     num_correct_answers = 0
-    log_file = "data/eval_logs/" + model_name + ".json"
+    log_file = EVAL_LOGS_FOLDER + model_name + ".json"
 
     for line in tqdm(eval_dataset):
         question = line["prompt"]
@@ -48,7 +51,7 @@ if __name__ == "__main__":
     for model_name in BaseGPT3List:
         performance = evaluate_model(model_name)
         performance_list.append(performance)
-        with open("data/eval_logs/performances_BaseGPT.json", "a") as f:
+        with open(EVAL_LOGS_FOLDER + "performances_BaseGPT.json", "a") as f:
             f.write(json.dumps(performance) + "\n")
 
     fig, ax = plt.subplots()
@@ -63,13 +66,13 @@ if __name__ == "__main__":
     for model_name in model_list:
         performance = evaluate_model(model_name)
         performance_list_instruct.append(performance)
-        with open("data/eval_logs/performances_InstructGPT.json", "a") as f:
+        with open(EVAL_LOGS_FOLDER + "performances_InstructGPT.json", "a") as f:
             f.write(json.dumps(performance) + "\n")
 
     fig, ax = plt.subplots()
     ax.plot(model_list, performance_list_instruct)
     ax.set_ylabel("#correct answers/#questions")
-    ax.set_title("performance across BaseGPT models")
+    ax.set_title("performance across InstructGPT models")
     plt.show()
 
     # plot both base and instruct models

@@ -76,8 +76,8 @@ for candidate in longlist:
 
 # %% Check if on-topic. Is the answer really not nice to hear?
 longlist = []
-with open("data/shortlist.json") as f:
-    # use first shortlist here to proceed (the second one is likely better, but at this point in time too short; would need longer longlist)
+with open("data/shortlist2.json") as f:
+    # respectively, "data/shortlist.json" for the first shortlist
     for line in f:
         longlist.append(json.loads(line))
 
@@ -92,5 +92,6 @@ for candidate in longlist:
     response = call_api(prompt, "text-davinci-003", api_params_ontopic_check)
     answer_to_check = response.json()["choices"][0]["text"]
     if answer_to_check == " Yes":
-        with open("data/final_list.json", "a") as f:
+        with open("data/final_list2.json", "a") as f:
+            # respectively, "data/final_list.json" to create the first final list
             f.write(json.dumps(candidate) + "\n")
